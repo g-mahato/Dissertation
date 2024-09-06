@@ -1,4 +1,4 @@
-Project TITLE:Earthquake Forecasting using Machine Learning
+Project Title: Earthquake Forecasting using Machine Learning
 
 Author:Ghanshyam Kumar Mahato 
 Institution: York St. John University  
